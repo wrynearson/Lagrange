@@ -10,8 +10,6 @@ comments: false
 ---
 *Written on 12-13 June 2020*
 
-[![Sunset Panorama](../assets/img/2020/../2020-05-31-le-grammont/sunset_pano.jpg "Sunset Panorama")](../assets/img/2020/../2020-05-31-le-grammont/sunset_pano.jpg)
-
 A few weeks after seeing some incredible photos from [this post](https://www.novo-monde.com/en/hike-switzerland-grammont/), Le Grammont was immediately placed in the top spot of my bucket list of hikes to do in Switzerland. Being relatively close to Geneva, this short but steep hike seemed to have it all on paper - a trailhead accessible by public transportation (usually, not during these Covid-19 times though), a lake to stop at a third of the way up, stunning views, breathtaking views, amazing views...let's just say the views were the main calling card.
 
 # Getting There

@@ -4,7 +4,7 @@ author: Will Rynearson & Francesco Cambi
 date: 2021-02-12
 tags: [Trip, Switzerland, France, Italy, Bike]
 description: 570km of cycling perfection from Geneva to Genova through France.
-image: "/2020-07-14-geneva-genova/25.jpg"
+image: "2020-07-14-geneva-genova/25.jpg"
 layout: post
 published: true
 ---
