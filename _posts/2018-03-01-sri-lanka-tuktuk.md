@@ -3,7 +3,7 @@ title: Sri Lanka on Three Wheels
 date: 2020-12-08 23:00:00 +01:00
 tags: [Photography, Travel, Sri Lanka]
 description: Traveling around Sri Lanka by tuk-tuk proved to be an unforgettable experience.
-image: "_assets/img/2020-12-08-sri-lanka-tuk-tuk/12.jpg"
+image: "2020-12-08-sri-lanka-tuk-tuk/12.jpg"
 layout: post
 published: true
 ---

@@ -1,12 +1,10 @@
 ---
 title: Geneva to Genova
-author:
-    - Will Rynearson
-    - Francesco Cambi
+author: Will Rynearson & Francesco Cambi
 date: 2021-02-12
 tags: [Trip, Switzerland, France, Italy, Bike]
 description: 570km of cycling perfection from Geneva to Genova through France.
-image: ../assets/img/2020-07-14-geneva-genova/25.jpg
+image: "/2020-07-14-geneva-genova/25.jpg"
 layout: post
 published: true
 ---
@@ -151,10 +149,6 @@ Our start at roughly 12:00 lead to us dripping with sweat, and filling our brain
 
 The scenery, once again, propelled us upwards.
 
-<video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"> Your browser does not support this video.</video>
-
-<video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"> Your browser does not support this video.</video>
-
 ![](../assets/img/2020-07-14-geneva-genova/10.jpg)
 
 We stopped quickly roughly two thirds of the way up to refill our bottles and our inspiration from the scenery which surrounded us.
@@ -180,8 +174,6 @@ This trip, in all its splendidness, was also painful at times. I sometimes have 
 The pain slowly morphed into pleasure as the sun began to set behind the mountains. While *Galibier* was epic, it was also busy. The climb up to *Izoard* was almost deserted. The pine trees, painted sky and perfect asphalt made it an unexpected gem of our trip, and reminded me of the Rockies in North America, where I did my undergraduate studies.
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/15.jpg)
-
-
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/16.jpg)
 
@@ -220,15 +212,9 @@ After lunch in a quaint village at the base of the climb, we spent the next 3 ho
 
 ![d'agnel](../assets/img/2020-07-14-geneva-genova/19.jpg)
 
-
-
 ![d'agnel](../assets/img/2020-07-14-geneva-genova/20.jpg)
 
-
-
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/21.jpg)
-
-
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/22.jpg)
 

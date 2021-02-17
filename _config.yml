@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Will Rynearson'
-description:	       'Adventure | Photography | Sustainability'
+description:	       'Nature | Photography | SDGs'
 author:              'Will Rynearson'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
