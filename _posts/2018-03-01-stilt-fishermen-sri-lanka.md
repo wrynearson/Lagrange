@@ -1,5 +1,6 @@
 ---
 title: The Stilt Fishermen of Sri Lanka
+author: Will Rynearson
 date: 2018-03-02 12:00:00 +02:00
 # Posted 2020-04-27
 tags: [Photography, Travel, Sri Lanka]
@@ -7,8 +8,6 @@ description: Sri Lanka's Historic Tradition of Stilt Fishing
 # image:
 layout: post
 ---
-*Written 2020-04-27*
-
 [![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
 
 [![2](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)
@@ -48,3 +47,5 @@ and culturally-insensitive tourists, we snapped away until it got dark.
 [![6](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_807_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_807_PS.jpg)
 
 [![7](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)
+
+*Written 2020-04-27*

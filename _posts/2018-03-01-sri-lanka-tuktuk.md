@@ -1,14 +1,12 @@
 ---
 title: Sri Lanka on Three Wheels
+author: Will Rynearson
 date: 2020-12-08 23:00:00 +01:00
 tags: [Photography, Travel, Sri Lanka]
 description: Traveling around Sri Lanka by tuk-tuk proved to be an unforgettable experience.
 image: "2020-12-08-sri-lanka-tuk-tuk/12.jpg"
 layout: post
-published: true
 ---
-*Written on July 6th, 2018 for Clamp Magazine from a trip in early 2018.*
-
 Once we arrived, a friend and I did what any sensible travelers would do – give a man we met on the internet several hundred dollars in return for renting his three-wheeled tuk-tuk and drive away, having only learned how to operate the motorized vehicle half an hour prior. In reality, it turned out to be one of the best decisions I have ever made while traveling; the incredible scenes that Sri Lanka has to offer flowed into our doorless tuk-tuk, and the inquisitive locals, upon seeing two foreigners driving their preferred mode of transportation, instantly opened up to us.
 
 ![1](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-sri-lanka-tuk-tuk/1.jpg)
@@ -39,3 +37,5 @@ The experiences – unexplored tea fields, an unsolicited and unforgettable conv
 ![2](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-sri-lanka-tuk-tuk/2.jpg)
 
 ![3](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-sri-lanka-tuk-tuk/3.jpg)
+
+*Written on July 6th, 2018 for Clamp Magazine from a trip in early 2018.*

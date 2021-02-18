@@ -8,8 +8,6 @@ image: "2020-07-14-geneva-genova/25.jpg"
 layout: post
 published: true
 ---
-*Note: This trip took place in July 2020 and was written in the fall and winter of 2020/2021.*
-
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
 
 | Table of Contents                                            |
@@ -24,10 +22,6 @@ published: true
 | [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle) |
 | [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova) |
 | [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion) |
-
-
-
-
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
@@ -374,3 +368,5 @@ While the first part of the ride was nice, along the coast on nice bike paths, t
 This was truly a ride of a lifetime, as we could explore three countries in less than a week (if you don't count our week-long break). The trip had it all - mountains, sea, forests, gelato, wild exposed camping, beaches, gelato, good food, and more gelato. Every other aspect of cycling in Italy made up for the sub-optimal roads, while France was a different kind of cycling perfection.
 
 We were exhausted at the end... but not done. The trip was so good that we decided to do another one, just a few days after, through central Italy. More on that next time.
+
+*Note: This trip took place in July 2020 and was written in the fall and winter of 2020/2021.*
