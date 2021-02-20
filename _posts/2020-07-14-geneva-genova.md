@@ -9,7 +9,6 @@ layout: post
 ---
 In July 2020, a friend and I biked 524km from Geneva to Genova through France. We pushed ourselves to our limits, and had an unforgetable and incredible adventure as a result.
 
-<!--more-->
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
 

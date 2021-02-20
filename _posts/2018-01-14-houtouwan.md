@@ -46,4 +46,9 @@ We met a large group of elderly residents doing just this shortly after we arriv
 
 [![10](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/10.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/10.jpg)
 
-*Originally written with Hibshy Samsadin on January 14th, 2018 for Clamp Magazine from a trip in late 2017.*
+{: .note }
+Originally written with Hibshy Samsadin on January 14th, 2018 for Clamp Magazine from a trip in late 2017.
+
+#+BEGIN_NOTE
+Originally written with Hibshy Samsadin on January 14th, 2018 for Clamp Magazine from a trip in late 2017.
+#+END_NOTE 
