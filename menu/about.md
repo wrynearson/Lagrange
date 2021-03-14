@@ -7,8 +7,8 @@ title: About
     display: inline-block;
     float: left;
     margin-right: 1em;
-    border-radius: 15%;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 5%;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.05);
     "/>
 
 🎓 I grew up in the Pacific Northwest in the United States, and have studied and worked in the US, Thailand, Kenya, Switzerland and China. I'm interested in the intersection of policy, science, management and communication, and taking a more holistic approach towards solving problems within the SDG framework, specifically with issues involving water and sanitation.
