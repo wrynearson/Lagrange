@@ -24,6 +24,7 @@ body {
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
+  letter-spacing: -.025em;
   text-align: justify;
 }
 
