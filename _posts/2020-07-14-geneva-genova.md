@@ -3,11 +3,11 @@ title: Geneva to Genova
 author: Will Rynearson & Francesco Cambi
 date: 2021-02-12
 tags: [Trip, Switzerland, France, Italy, Bike]
-description: 570km of cycling perfection from Geneva to Genova through France.
+description: 524km of cycling perfection from Geneva to Genova through France.
 image: "2020-07-14-geneva-genova/25.jpg"
 layout: post
 ---
-In July 2020, a friend and I biked 524km from Geneva to Genova through France. We pushed ourselves to our limits, and had an unforgetable and incredible adventure as a result.
+> In July 2020, a friend and I biked 524km from Geneva to Genova through France. We pushed ourselves to our limits, and had an unforgettable and incredible adventure as a result.
 
 | Table of Contents                                            |
 | :----------------------------------------------------------- |
