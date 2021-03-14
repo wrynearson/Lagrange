@@ -8,6 +8,7 @@ layout: post
 excerpt_separator: <!--more-->
 author: Will Rynearson & Hibshy Samsadin
 ---
+
 “Autumn isn’t bad, but you should be here in the summer. The water is bluer, the vegetation is greener, and the air is cleaner,” said the taxi driver after our boat had arrived on a cold winter’s afternoon.
 
 <!--more-->
