@@ -4,8 +4,7 @@ date: 2020-04-28
 tags: [Data]
 description: Using Microsoft's Building Dataset to Create an Artistic Map of my Hometown
 image: "2020-04-28-building-map-bainbridge/bainbridge-1.png"
-layout: post
-published: true
+layout: page
 ---
 <!-- {::nomarkdown}
 <img 
@@ -15,7 +14,6 @@ published: true
     width=100%" />
 {:/} -->
 
-![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.png)
 *Bainbridge Island, my hometown.* 
 
 I've always loved maps. The differet ways we represent the physical world on a small screenor piece of paper is fascinating. I could spend hours looking at subway maps, old world maps,or beautiful topo maps. They're such a powerful mix of technical prowess and art (maybe that's why I love photography).
