@@ -9,9 +9,6 @@ layout: post
 ---
 In July 2020, a friend and I biked 524km from Geneva to Genova through France. We pushed ourselves to our limits, and had an unforgetable and incredible adventure as a result.
 
-
-<img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
-
 | Table of Contents                                            |
 | :----------------------------------------------------------- |
 | [Preface](https://wrynearson.github.io/geneva-genova/#preface) |
@@ -65,7 +62,7 @@ Excitement was in the air when we set off in the early afternoon. It was Frances
 
 We almost immediately crossed into France. With our sights set on Annecy for dinner and our bikes being in good shape (so far), we pushed through with barely any stops. The landscape was nice, but the constant traffic and mediocre bike lane detracted from the experience. Spirits were high, however, since we knew cycling nirvana was ahead.
 
-<img src="../assets/img/2020-07-14-geneva-genova/02.jpg" class="align-center" alt="Annecy" style="zoom:33%;" />
+![annecy](../assets/img/2020-07-14-geneva-genova/02.jpg)
 
 Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers did so even more.
 
@@ -73,9 +70,9 @@ Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers
 
 We felt far too accomplished for only cycling for a few hours, and thus spent too much time in the city. Once the beers and food wore off (which took a while), we enjoyed the wonderful landscape and separated cycling path along *lac d'Annecy* during dusk. 
 
-<img src="../assets/img/2020-07-14-geneva-genova/04.jpg" class="align-center" alt="departure" style="zoom:25%;" />
+![departure](../assets/img/2020-07-14-geneva-genova/04.jpg)
 
-<img src="../assets/img/2020-07-14-geneva-genova/05.jpg" class="align-center" alt="departure" style="zoom:25%;" />
+![departure](../assets/img/2020-07-14-geneva-genova/05.jpg)
 
 The calm, speedy route continued into mellow climbs with minimal traffic. Dusk turned to twilight, which turned into the black of night. We only arrived to the unknown *col de tamiè* at around 23:00.
 
@@ -141,7 +138,7 @@ We took our time getting up, showering and packing. This was a huge mistake. The
 
 Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly. The main problem is that there is essentially zero shade on the entire climb. We took short breaks on the shady side of immovable objects, but this too was limited due to the angle of the sun directly above us.
 
-<img src="../assets/img/2020-07-14-geneva-genova/09.jpg" alt="galibier" style="zoom:33%;" />
+![galibier](../assets/img/2020-07-14-geneva-genova/09.jpg)
 
 The scenery, once again, propelled us upwards.
 
@@ -157,7 +154,7 @@ The closer we got to the top, the more it pulled us uphill. With perfect conditi
 
 This was the first point in the trip where we felt truly accomplished. We stayed for a while to just take it all in. Then, satisfied, we got what we had earned - an amazing descent.
 
-<img src="../assets/img/2020-07-14-geneva-genova/13.jpg" alt="galibier-descent" style="zoom:33%;" />
+![galibier-descent](../assets/img/2020-07-14-geneva-genova/13.jpg)
 
 Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of my previous adventures, Francesco deserves all of the credit for planning such crazy, but achievable ones. Thus, we marched on for our second major climb of the day - *Col d'Izoard* `2360m`, almost as high as where we were when we realized we'd have to summit twice on the same day.
 
@@ -175,7 +172,7 @@ The pain slowly morphed into pleasure as the sun began to set behind the mountai
 
 I'm sure we had some fatigue climbing up, and probably stressed about something at the time, but all of these negative emotions fade with time. What matters is the climb was beautiful, and that we were on an adventure of a lifetime. Oh, and that we made it to the top and camped nearby.
 
-<img src="../assets/img/2020-07-14-geneva-genova/17.jpg" alt="d'izoard" style="zoom:33%;" />
+![d'izoard](../assets/img/2020-07-14-geneva-genova/17.jpg)
 
 ### Notes
 
