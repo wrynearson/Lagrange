@@ -4,7 +4,7 @@ date: 2020-04-28
 tags: [Data]
 description: Using Microsoft's Building Dataset to Create an Artistic Map of my Hometown
 image: "2020-04-28-building-map-bainbridge/bainbridge-1.png"
-layout: page
+layout: post
 ---
 <!-- {::nomarkdown}
 <img 
