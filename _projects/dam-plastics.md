@@ -2,6 +2,7 @@
 title: Dam Plastics
 description: From one dam in one river to no plastics in all rivers, Dam Plastics empowers stakeholders to systematically monitor and control the flow of plastic.
 layout: project_page
+published: false
 ---
 
 
