@@ -29,6 +29,4 @@ author:              'Will Rynearson'
 #  path: rss-feed.xml
 
 collections:
-  - projects:
-    output: true
-    permalink: /:collection/:title
+  - projects
