@@ -30,3 +30,5 @@ author:              'Will Rynearson'
 
 collections:
   - projects
+    output: true
+    permalink: /:collection/:title
