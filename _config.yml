@@ -30,4 +30,4 @@ author:              'Will Rynearson'
 
 collections:
   - projects
-    output: true
+      output: true
