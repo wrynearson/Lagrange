@@ -3,7 +3,23 @@ layout: page
 title: Projects
 ---
 
+<ul class="posts">
+  {% for project in site.projects %}
 
-<li itemscope>
-  <a href="{{ site.github.url }}{{ project.url }}">{{ project.title }}</a>
-</li>
+    {% unless post.next %}
+      <h3>{{ post.date | date: '%Y' }}</h3>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
+      {% endif %}
+    {% endunless %}
+
+    <li itemscope>
+      <a href="{{ site.github.url }}{{ project.url }}">{{ project.title }}</a>
+      <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
+    </li>
+
+  {% endfor %}
+</ul>
