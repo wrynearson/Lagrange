@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: project_page
 title: Projects
-permalink: /projects/
 ---
 
 <ul class="posts">
